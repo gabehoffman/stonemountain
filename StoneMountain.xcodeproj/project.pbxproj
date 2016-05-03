@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		833D21881CD9459C0018C767 /* Preview1.png in Resources */ = {isa = PBXBuildFile; fileRef = 833D21871CD9459C0018C767 /* Preview1.png */; };
 		8384FC481CB34150005CD2D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8384FC471CB34150005CD2D1 /* AppDelegate.swift */; };
 		8384FC4A1CB34150005CD2D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8384FC491CB34150005CD2D1 /* ViewController.swift */; };
 		8384FC4D1CB34150005CD2D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8384FC4B1CB34150005CD2D1 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		833D21871CD9459C0018C767 /* Preview1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Preview1.png; sourceTree = "<group>"; };
 		8384FC441CB34150005CD2D1 /* StoneMountain.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoneMountain.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8384FC471CB34150005CD2D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8384FC491CB34150005CD2D1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				8384FC4B1CB34150005CD2D1 /* Main.storyboard */,
 				8384FC4E1CB34150005CD2D1 /* Assets.xcassets */,
 				8384FC501CB34150005CD2D1 /* LaunchScreen.storyboard */,
+				833D21871CD9459C0018C767 /* Preview1.png */,
 				8384FC531CB34150005CD2D1 /* Info.plist */,
 			);
 			path = StoneMountain;
@@ -124,6 +127,7 @@
 			files = (
 				8384FC521CB34150005CD2D1 /* LaunchScreen.storyboard in Resources */,
 				8384FC4F1CB34150005CD2D1 /* Assets.xcassets in Resources */,
+				833D21881CD9459C0018C767 /* Preview1.png in Resources */,
 				8384FC4D1CB34150005CD2D1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,6 +292,7 @@
 				8384FC581CB34150005CD2D1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
